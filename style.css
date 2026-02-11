@@ -103,9 +103,28 @@ nav ul {
 
   .hero {
     grid-template-columns: 100%;
+    gap: 6rem;
   }
 
   #hero-illustration {
     order: -1;
+  }
+
+  .main-header {
+    margin-bottom: 4rem;
+  }
+
+  h1,
+  h2 {
+    margin-bottom: 2rem;
+  }
+
+  h1 {
+    letter-spacing: -1px;
+    line-height: 1;
+  }
+
+  h2 {
+    line-height: 1.2;
   }
 }
