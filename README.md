@@ -22,3 +22,5 @@ Wally is a modern and sleek landing page for a digital wallet service. This proj
 - **CSS Custom Properties:** For consistent branding (colors, spacing).
 - **Flexbox Layout:** To align the navigation bar and the hero section content.
 - **Mobile-first approach:** Ensuring the design works perfectly on smaller screens.
+
+---
