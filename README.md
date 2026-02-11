@@ -10,7 +10,7 @@ Wally is a modern and sleek landing page for a digital wallet service. This proj
 
 ---
 
-- **Solution URL:** https://github.com/suhaibadill/digital-wallet
+- **Live URL:** https://suhaibadill.github.io/digital-wallet/
 
 ---
 
